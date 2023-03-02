@@ -1,0 +1,6 @@
+let result = "#";
+while (length < 8) {
+	result = result + result;
+	console.log(result);
+	}
+

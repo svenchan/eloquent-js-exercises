@@ -1,5 +1,6 @@
 let result = "#";
-counter = 0;
+let counter = 0;
+console.log(result);
 while (counter < 8) {
 	result = result + "#";
 	counter = counter + 1;
